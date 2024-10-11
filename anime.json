@@ -1,0 +1,124 @@
+[
+    {
+        "id":1,
+        "anime": "One piece",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/3rsT4LGs/one-piece.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (1999-Actualidad). Más de 1000 episodios. Riqueza, fama, poder... un hombre que había obtenido todo en este mundo. El Rey de los Piratas Gold Roger. Antes de morir sus últimas palabras inspiraron al mundo a aventurarse al mar: ¿Mi tesoro? Si lo queréis es vuestro... Se lo daré a aquel que lo encuentre. He escondido todos mis tesoros en ESE LUGAR. El mundo ha entrado en la Gran Era de la Piratería."
+    },
+    {
+        "id":2,
+        "anime": "Dragon Ball",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/0NyRRhgw/dragon-ball.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (1986-1989). 5 temporadas. 153 episodios. Dragon Ball narra la historia de Goku, un excepcional niño que llegó a la Tierra en una cápsula durante una noche tormentosa. Sin saber nada de su pasado, un anciano lo cuidó como su nieto hasta los ocho años. Después de morir su abuelo, Goku accede a la Kame House, lugar donde un estrambótico anciano le convertirá en un campeón de artes marciales. Conocerá por el camino a Bulma, una muchacha obsesionada con algo denominado las Bolas de Dragón, y Krilin, su compañero de aventuras, entre otros..."
+    },
+    {
+        "id":3,
+        "anime": "Dragon Ball Z",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/5NBZHfbz/dragon-ball-z.jpg" ,
+        "url": "#",
+        "informacion": "Serie de TV (1989-1996). 16 temporadas. 291 episodios. La historia de Dragon Ball Z se divide en cuatro ramas centrales, repartidas en un total de 291 episodios. La primera abarca desde que Son Gohan, hijo de Goku, es raptado por el saiyan Radish. La etapa de Freezer lleva a Goku, Krillin, Vegeta y Bulma al planeta Namek. Después viene la Saga de los Androides, que da comienzo cuando tres androides (C-16, C-17, C-18) comienzan a aterrorizar la tierra, hasta la llegada de Célula. La última etapa de Z la cubre la Saga de Buu. Comienza cuando Babidí, un brujo bastante ambicioso, comienza un plan para resucitar al poderoso monstruo Buu, un ente capaz de poner la tierra a su favor en un par de movimientos. "
+    },
+    {
+        "id":4,
+        "anime": "Naruto",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/7LWcv6MF/naruto.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2002-2007). 220 episodios. La historia transcurre en un mundo dominado por aldeas ninja. En las cuales el papel del ninja se traduce como el poder de cada país. Cada uno de estos cuenta con su aldea oculta que es donde estudian, entrenan, graduan y forman cada ninja. Los ninjas utilizan todo tipo de artes marciales desde la lucha cuerpo a cuerpo a ilusiones o técnicas secretas como por ejemplo la manipulación de elementos.El protagonista es un joven aspirante a ninja Uzumaki Naruto, un muchacho que sueña en convertirse algun dia en el líder de su aldea (Hokage). Será para él una tarea difícil ya que cuando era solo un bebé le fué confiado en su interior el poder de un ser malvado, que antaño causo grandes males en su aldea (Konoha) y el cual irá poco a poco descubriendo y dominando. Por culpa de ese poder Naruto pasa una dura infancia con desprecio y negación por parte de los vecinos de su aldea."
+    },
+    {
+        "id":5,
+        "anime": "Naruto Shippuden",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/FzZ8BxPZ/naruto-shippuden.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2007-2017). 502 episodios. La historia rodea a un mayor y un poco más maduro Naruto Uzumaki y su aventura para rescatar a su amigo Sasuke Uchiha de las garras del Orochimaru, antes de que este utilize el cuerpo de su amigo. Sakura también se unirá a su viaje, por la que comienza a entrenar con Tsunade. Tras 2 años y medio entrenando con Jiraiya, Naruto regresa a Konoha, y se decide alcanzar su sueño de una buena vez, aunque no será nada fácil. Ahora ha formado más enemigos dentro de la Organización Shinobi, Akatsuki; que siguen buscando el demonio en su interior. Ahora, 3 años después de los eventos de Naruto, el viaje del muchacho para volverse Hokage continúa"
+    },
+    {
+        "id":6,
+        "anime": "Gintama",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/B6yX1x5m/gintama.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2005-2018). 8 temporadas. 375 episodios. La historia de Gintama nos sitúa en un Japón sometido por unas criaturas alienígenas conocidas como Amantos. Gracias a estos el país goza de avances tecnológicos desmedidos, pero a la vez la especie humana ha sido desprendida de la autoridad de velar sobre su propio planeta. Para evitar revuelas bélicas se ha prohibido por completo el uso y porte de espadas. Aun así en esta nueva era hay personas que se mantienen fieles a sus creencias y convicciones de antaño, como es el caso del protagonista, Gintoki, quien tras luchar en el pasado en las guerras independentistas contra el control de los Amantos que culminó con una aplastante derrota para la especie humana. Gin, junto con otros dos igualmente estrambóticos personajes, crean una tienda conocida Yorozuya, en donde se dedican a realizar cualquier tipo de trabajo que se les presente, pero al final rara vez logran obtener algo de dinero decente y tienen problemas incluso para pagar el alquiler del piso"
+    },
+    {
+        "id":7,
+        "anime": "Hunter x Hunter",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/3JGtShRw/hunter.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2011-2014). 148 episodios. Gon Frecks, un niño de 12 años, vive con su tía Mito y su abuela en Isla Ballena, huérfano de madre y según su tía también de padre. Un día Gon es atacado por un oso del bosque, pero es salvado por un cazador quien le explica que está en busca de su maestro para así convertirse en un cazador. Él es quien le dice que su padre Gin está vivo. Enterado de esto Gon decide convertirse en cazador para poder encontrar a su padre"
+    },
+    {
+        "id":8,
+        "anime": "One punch man",
+        "categoria": "Shonen",
+        "imagen":"https://i.postimg.cc/q7JQvCGt/One-punch-man.jpg" ,
+        "url": "#",
+        "informacion": "Serie de TV (2015). 12 episodios. La trama se desarrolla en Ciudad Z, Japón. Saitama es un superhéroe que, debido a varias circunstancias, puede derrotar de un puñetazo a los monstruos y villanos que asolan el lugar. Debido a esto, el chico se aburre, pues no encuentra un rival a la altura. Es por ello que emprende una singular aventura junto a la Asociación de Héroes. Además de buscar a un contrincante digno, Saitama tiene que conseguir que el resto le valore, pues su aspecto hace que la gente le discrimine y le considere un héroe de tres al cuarto"
+    },
+    {
+        "id":9,
+        "anime": "Mob Psycho 100",
+        "categoria": "Shonen",
+        "imagen":"https://i.postimg.cc/cCnBb7dz/MOB.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2016). 12 episodios. Kageyama Shigeo, más conocido por el apodo Mob, parece un chico tímido con problemas para relacionarse con los demás, pero en realidad. es un poderoso Esper. Mob quiere ser un niño normal y corriente pero, para mantener su poder psíquico bajo control, tiene que reprimir constantemente sus emociones. Sin embargo, los problemas le persiguen, y vive rodeado por falsos Espers, espíritus malignos y misteriosas organizaciones"
+    },
+    {
+        "id":10,
+        "anime": "Jujutsu Kaisen",
+        "categoria": "Shonen",
+        "imagen":"https://i.postimg.cc/SxDCV1Ws/jujutsu-kaisen.jpg" ,
+        "url": "#",
+        "informacion":"TV Series (2020). 24 episodios. Yuji Itadori decide pasar el tiempo con el Club de Ocultismo del instituto, pese a poseer unas habilidades atléticas extraordinarias. Con el tiempo, descubre que el mundo del oculto es real, y los miembros del club son atacados. Mientras, el misterioso Megumi Fushiguro está buscando un objeto maldito, y su búsqueda le lleva hasta Itadori..." 
+    },
+    {
+        "id":11,
+        "anime": "Fire force",
+        "categoria": "Shonen",
+        "imagen":"https://i.postimg.cc/jj1NYW3Y/fire-force.jpg" ,
+        "url": "#",
+        "informacion": "Serie de TV (2019-). 2 temporadas. La Combustión Humana, un inexplicable fenómeno en que de forma misteriosa la gente estalla en llamas, asalta a la humanidad. Shinra Kusakabe, un chico que desea convertirse en un héroe se une a la Octavo Escuadrón de Bomberos con el fin salvar a la humanidad y de descubrir el misterio detrás de su propio pasado y su poder"
+    },
+    {
+        "id":12,
+        "anime": "Chainsaw man",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/FRcftTJ0/chainsaw.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2022). 12 episodios. Denji es un joven pobre que haría cualquier cosa por dinero, incluso perseguir demonios con su perro diabólico Pochita. Es una persona simple, con sueños simples, que se está ahogando en una montaña de deudas. Pero su triste vida da un vuelco cuando le traiciona alguien en quien confía. Ahora, con el poder del demonio dentro, Denji da la bienvenida a un hombre nuevo —¡'Chainsaw Man'!. Adaptación anime del aclamado manga de Tatsuki Fujimoto"
+    },
+    {
+        "anime": "Dr. Stone",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/jdqjvxvH/dr-stone.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2019). 24 episodios. Un fatídico día, toda la humanidad quedó petrificada por un destello de luz cegadora. Después de varios milenios, el estudiante de secundaria Taiju se despierta y se encuentra perdido en un mundo de estatuas. Sin embargo, no está solo. Su ídolo científico, Senku, ha estado trabajando durante varios meses y tiene un gran plan en mente para impulsar la civilización con el poder de la ciencia"
+    },
+    {
+        "id":14,
+        "anime": "Kimetsu no Yaiba",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/BnkQqx3p/kimetsu-no-yaiba.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2019). 26 episodios. Tanjirou Kamado es un chico inteligente y de buen corazón que vive con su familia y gana dinero vendiendo carbón. Todo cambia cuando su familia es atacada y asesinada por un demonio (oni). Tanjirou y su hermana Nezuko son los únicos sobrevivientes del incidente, aunque Nezuko fue convertida en demonio. Tanjirou se convierte en un asesino de demonios para ayudar a su hermana a volverse humana nuevamente y vengar la muerte de su familia."
+    },
+    {
+        "id":15,
+        "anime": "Shingeki no Kyojin",
+        "categoria": "Shonen",
+        "imagen": "https://i.postimg.cc/JhCV6Kmf/shingeki.jpg",
+        "url": "#",
+        "informacion": "Serie de TV (2013-2023). 4 temporadas. Serie basada en el manga del mismo nombre, dirigida por Tetsuro Araki y protagonizada por un grupo de residentes de una ciudad rodeada de murallas, las cuales sirven para proteger a la población de los ataques de gigantes caníbales, quienes de vez en cuando consiguen entrar en el lugar"
+    }
+    
+
+
+]
